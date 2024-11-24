@@ -80,7 +80,7 @@
 
 
 ### Terminal 1
-1. Navigate to the project directory:
+1. Navigate to the project directory
 2. Generate the Makefile using qmake
    ```bash
    qmake-qt5
