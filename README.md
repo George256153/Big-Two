@@ -56,6 +56,7 @@
   At any point during the game, click *Back to Menu* to return to the main screen.
 
 ## Game Design Flow
+<img src="bigtwo.png" alt="bigtwo" width="40%">
 ## Completed Features
 - All fundamental game functionalities have been implemented
 - Bonus Features
