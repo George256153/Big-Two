@@ -56,7 +56,8 @@
   At any point during the game, click *Back to Menu* to return to the main screen.
 
 ## Game Design Flow
-<img src="bigtwo.png" alt="bigtwo" width="40%">
+<img src="bigtwo.png" alt="bigtwo" width="70%">
+
 ## Completed Features
 - All fundamental game functionalities have been implemented
 - Bonus Features
@@ -64,17 +65,19 @@
   - **Automatic Play on Timeout**: If a player does not make a move within ten seconds, the system will automatically play a card
   - **Game Table Information**: Additional feature displaying game information on the left side of the game screen
 ## Game Rules
+
 1. Each player is dealt an equal number of cards, face down.
-2. Begin the game by playing combination include the three of club.
-3. Card are played in a counterclockwise direction.
-4. The next player can either pass or follow the previous combination with higher-ranked.
-5. If choosing to pass in this turn, you can’t play any card until this turn end.
+2. Begin the game by playing a combination that includes the three of clubs.
+3. Cards are played in a counterclockwise direction.
+4. The next player can either pass or follow the previous combination with a higher-ranked one.
+5. If choosing to pass in this turn, you can’t play any card until this turn ends.
 6. When the other three players all pass, the turn ends.
-7. Once everyone besides you have passed, you can play new combination and start a
-new turn.
-8. The first player who runs out of cards can get scores and a new round begin.
-9. Player who get 50 scores first is winner.
-##  Program Execution
+7. Once everyone besides you has passed, you can play a new combination and start a new turn.
+8. The first player who runs out of cards gets scores, and a new round begins.
+9. The player who gets 50 scores first is the winner.
+
+## Program Execution
+
 
 ### Terminal 1
 1. Navigate to the project directory:
@@ -95,5 +98,3 @@ new turn.
 2. Run the Big Two game executable
    ```bash
    ./big_two
-
-
